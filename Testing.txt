@@ -1,1 +1,1 @@
-want to check if there are any merge conflicts in the file while adding the new file or using git pull command.
+want to check if there are any merge conflicts in the file while adding the new file or using git push to it command.
