@@ -1,1 +1,1 @@
-want to check if there are any merge conflicts in the file while adding the new file or using git push to it command.
+want to check if there are any merge conflicts in the file while adding the new file or using svn to pull the code pull command. and added new changes
